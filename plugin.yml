@@ -1,0 +1,9 @@
+name: SudoUI
+main: MulkiAqi192\SudoUI\Main
+author: MulkiAqi192
+api: 3.0.0
+version: 1.0
+
+commands:
+  sudo:
+    description: "Sudo a player!"
